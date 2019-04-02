@@ -12,14 +12,16 @@ Now just curl the service to get words of wisdom from [Zapp Brannigan](https://e
 
 ```sh
 % curl localhost:80/
-We'll simply set a new course, for that empty region over there near that blackish, holish thing.                                                                     
+We'll simply set a new course, for that empty region over there near that blackish, holish thing.
+
 % curl localhost:5000/
-I am the man with no name. Zapp Brannigan at your service.                                                                                                            
+I am the man with no name. Zapp Brannigan at your service.
+
 % curl localhost:5000/
 Once again my lies have been proven true.
 
 % curl localhost:5000/
-I surrender and volunteer for treason.                                                                         
+I surrender and volunteer for treason.
 
 % curl localhost:5000/
 If we hit that bullseye, the rest of the dominoes should fall like a house of cards. Checkmate.
