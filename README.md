@@ -34,3 +34,7 @@ The following commands may be useful:
 | `make run`     | Run the code locally.     |
 | `make image`   | Build the Docker image.   |
 | `make publish` | Publish the Docker image. |
+
+## That's It
+
+![Zapp Brannigan](./images/zapp.jpg)
